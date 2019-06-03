@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - GoogleMaps (3.0.2):
+    - GoogleMaps/Maps (= 3.0.2)
+  - GoogleMaps/Base (3.0.2)
+  - GoogleMaps/Maps (3.0.2):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.2):
+    - GoogleMaps/Base (= 3.0.2)
+  - IQKeyboardManagerSwift (6.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift (= 6.0.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  GoogleMaps: 941cd655e009b4d8e42df19a3d749bc3fccec973
+  GooglePlaces: c086e0055dc5f0177d7c9d65fc77a1734f9a4825
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+
+PODFILE CHECKSUM: 906588d1ffaf8f0587b5fa2a13b42a270567aece
+
+COCOAPODS: 1.6.1
